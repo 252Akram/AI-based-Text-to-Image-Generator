@@ -1,0 +1,20 @@
+{
+    "name": "text_to_image_generator",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index",
+        "dev": "nodemon index"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+        "D": "^1.0.0",
+        "dotenv": "^16.4.5",
+        "express": "^4.19.2",
+        "nodemon": "^3.1.4",
+        "openai": "^4.0.0"
+    }
+}
